@@ -1,0 +1,72 @@
+CRITICAL - 2024-06-27 02:22:34 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, array returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:23:40 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:24:05 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:24:06 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:24:06 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:24:23 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:24:35 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-27 02:25:23 --> TypeError: App\Controllers\Home::hello(): Return value must be of type string, none returned
+[Method: GET, Route: hello]
+in APPPATH/Controllers/Home.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->hello()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
