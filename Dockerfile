@@ -1,4 +1,4 @@
-FROM php:8.1-apache
+FROM php:8.3-apache
 
 # Instalar dependências
 RUN apt-get update && apt-get install -y \
@@ -27,4 +27,4 @@ RUN a2enmod rewrite
 COPY ./apache-config.conf /etc/apache2/sites-available/000-default.conf
 
 # Expor a porta 80
-EXPOSE 8080
+EXPOSE 80
